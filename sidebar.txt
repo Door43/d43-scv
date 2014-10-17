@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[scv:home|Door43 (scv)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-scv|d43-scv repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-scv/archive/master.zip|d43-scv.zip]]
+
+**Recent Changes**
+{{changes>ns = scv}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/scv|Ethnologue data]]
+
